@@ -1,7 +1,7 @@
 id=anyca
 name=Any Root Certificates
-version=v1.0.1
-versionCode=2
+version=v1.0.2
+versionCode=3
 author=ccyybn
 description=安装任意的根证书到系统CA目录
 updateJson=https://raw.githubusercontent.com/ccyybn/anyca/master/update.json
